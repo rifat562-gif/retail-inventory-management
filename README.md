@@ -44,8 +44,7 @@ A minimal demo script is included to show the end-to-end pipeline using **synthe
 pip install numpy pandas scikit-learn
 python src/demo.py
 ```
-Documentation
-Methodology notes: docs/Methodology_Notes.pdf
+Documentation: [Methodology Notes](docs/Methodology_Notes.pdf)
 
 Availability (Data + Full Code)
 
